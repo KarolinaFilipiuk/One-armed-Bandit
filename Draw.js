@@ -18,4 +18,4 @@ class Draw {
     }
 }
 
-const draw = new Draw();
+// const draw = new Draw();
