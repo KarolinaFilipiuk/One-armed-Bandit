@@ -1,8 +1,3 @@
-// D(p) - \_money'number'
-// M - changeWallet()
-// M - checkCanPay()
-// M - getWalletValue()
-
 class Wallet {
     constructor(money) {
         let _money = money;
@@ -31,5 +26,3 @@ class Wallet {
         }
     }
 }
-
-// const wallet = new Wallet(200);
