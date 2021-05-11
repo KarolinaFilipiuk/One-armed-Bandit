@@ -1,8 +1,3 @@
-// D - gamesStats []
-// M - addGameToStats()
-// M - showGamesStats()
-
-
 class Statistics {
     constructor() {
         this.gameStats = [{
